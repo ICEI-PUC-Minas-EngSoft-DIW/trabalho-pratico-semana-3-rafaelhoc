@@ -8,15 +8,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Rafael Henrique de Oliveira Cruz
+- Matricula: 904213
+- Proposta de projeto escolhida: Organizações e Equipes
+- Breve descrição sobre seu projeto: Desenvolvimento de um site para uma ONG de proteção ambiental, com o objetivo de divulgar suas ações e projetos, apresentar a equipe responsável e facilitar a comunicação com apoiadores e voluntários.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print do wireframe criado](public/wireframe.png)
 
 
 ## Print da home-page criada
